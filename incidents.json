@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-04T00:00:00+08:00",
-  "last_incident_title": "自動偵測：北京觀察》亮出紀委身分求關照！河北家長群截圖瘋傳，權力傲慢遭全網炎上 | 田暢 | 新聞",
-  "auto_updated": false,
-  "last_updated": "2026-09-06T14:53:47.514987+08:00",
+  "last_incident": "2026-09-06T00:00:00+08:00",
+  "last_incident_title": "自動偵測：中職／模仿李多慧飆粗口、抽菸　脫口秀演員遭炎上！味全龍球團也回應了",
+  "auto_updated": true,
+  "last_updated": "2026-09-07T15:03:27.949007+08:00",
   "incidents": [
     {
       "date": "2026-03-25",
@@ -224,6 +224,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-07",
+      "title": "綠營狂打蔣萬安兒特權恐遭反噬？郭正亮預言1事：會把蘇巧慧拖下水 | 張庭維 | 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NVm1Wa25pUUxmbWFsSXJkUTRHZzctVHB6NVRjelhScE5TZGVGVXUxdmZYd2FOUmJaNUVjMDBVdm9xRlp2aHVzbW5Pekk1Zw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-06",
+      "title": "中職／模仿李多慧飆粗口、抽菸　脫口秀演員遭炎上！味全龍球團也回應了",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjUFdsRGR2WXRTUnZnX24yMTRNNmxqZEVoU0w4UEhzemQza2ZFYnNlUFA1UWd3aHVtWnlOa214UHJkWG9XR2FEdNIBTEFVX3lxTE9ieE0weWd4cWpkVFptU0pBLXZSMjMzcFc3RnByaGYxR0drSlNmMVJUV2VPd2lORVR2RWV6anZtbW9DbEtiYmxkYURqamM?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-09-03",
       "title": "保定家長在班級群自報幹部身分求關照 惹起民憤 | 保定一中 | 中共特權 | 家長群 | 新唐人电视台",
