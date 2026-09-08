@@ -1,8 +1,8 @@
 {
   "last_incident": "2026-09-06T00:00:00+08:00",
   "last_incident_title": "自動偵測：中職／模仿李多慧飆粗口、抽菸　脫口秀演員遭炎上！味全龍球團也回應了",
-  "auto_updated": true,
-  "last_updated": "2026-09-07T15:03:27.949007+08:00",
+  "auto_updated": false,
+  "last_updated": "2026-09-08T14:57:53.210364+08:00",
   "incidents": [
     {
       "date": "2026-03-25",
@@ -224,6 +224,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-01",
+      "title": "光州雙年展台灣館惹怒中國 光州市道歉強調尊重一中",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQWZydlBpQ0xSSmNDVU9Gckt0NUN3QUNXRXpzOU5vLWRoVU5UV21EQm9UX0podnRpLUNsakxVRHNENThPNUlEalkzR1NPMjU0dm0tYW94cjRPd9IBX0FVX3lxTFA1LW00bUNxMldqZmFPeXV5dDhRWTJnSVdmbUd5dnZqVEZacmR5SWY3a1BTYS1pOFVOUFVhc3VxZVFhOGh0Z1dJQ2h5M3pZSHd2dTAwcmYycUp5QURhMW9v?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-09-07",
       "title": "綠營狂打蔣萬安兒特權恐遭反噬？郭正亮預言1事：會把蘇巧慧拖下水 | 張庭維 | 新聞",
