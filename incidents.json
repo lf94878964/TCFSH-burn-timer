@@ -2,7 +2,7 @@
   "last_incident": "2026-09-08T12:00:00+08:00",
   "last_incident_title": "台中一中榮譽服務隊學長對高二同學掐喉 Cia喉～(∠・ω< )⌒☆",
   "auto_updated": false,
-  "last_updated": "2026-09-10T15:03:22.472718+08:00",
+  "last_updated": "2026-09-11T15:02:41.771884+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-07",
+      "title": "你會誤以為蔣萬安濫用特權是因為忽略了這個可能性!!蔣萬安特權事件懶人包加徹底解析",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PYlFvZWVvUFliOHoxUGZYUThGd0trTlNwN3Rtd0R5N3RFWnlKbHIzVG50SkozZ0pici0taGRsLW90Z0JtT0Via2hXX3p6TDVIY2hfdFA4dzJ6bVJ0?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-06",
+      "title": "蔣萬安長子遭爆靠特權上建中！同屆同學曝國中3年真相",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiZU04eXFzdzFYLXF3RUtLUzhtQVdnam0yX0tHbkd2Mk0tVEJaSTVXdGNyNUZ1NmJocVBCdDllc1lNSlZVcjFHNdIBTEFVX3lxTFBUVUtfc2ZBdHRsRV9qRUwxbkxEUE5qWlE0VElId3BQdVdnMEszRWdTdVBxN1lBc1hjMEYzYW1iVjduWVRQeExwUUNBUUY?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "蔣得立赴美交換生1年有特權？連勝文怒：欺負十幾歲小朋友非常缺德| 縣市長議員選戰| 要聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aS1MTkpYYWh4Q0lMY2pLSF9KOXpULWlsNUNrX3REa0l5T3lieWRiWS00S0RkUk1WR3c2U0FCbWdmUm5HLUpYb05rRDNNSU8ydDNN?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-01",
       "title": "光州雙年展台灣館惹怒中國 光州市道歉強調尊重一中",
