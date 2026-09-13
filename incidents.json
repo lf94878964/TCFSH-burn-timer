@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-08T12:00:00+08:00",
-  "last_incident_title": "台中一中榮譽服務隊學長對高二同學掐喉 Cia喉～(∠・ω< )⌒☆",
-  "auto_updated": false,
-  "last_updated": "2026-09-12T14:55:43.280959+08:00",
+  "last_incident": "2026-09-12T00:00:00+08:00",
+  "last_incident_title": "自動偵測：國外電競選手傳加盟中國戰隊！突為涉達賴喇嘛舊ID道歉 聲明「堅持一中原則」",
+  "auto_updated": true,
+  "last_updated": "2026-09-13T15:13:16.730112+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-12",
+      "title": "國外電競選手傳加盟中國戰隊！突為涉達賴喇嘛舊ID道歉 聲明「堅持一中原則」",
+      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQTVRVM2dCR3V5QTNPZVhvXzFWSXlVWE9udFQ5ZEt3Tno0N3NQWV9wcDVJdUVIVWk1cE9OcTFpODI1LXZ2N1BuTkYwN0dYRkp6Y3lWQlh6Q1BWR3BsdDVtZDRSVTVKd2lBSktoLVdIckFmZGhtQl9HYzJLNEhWaHpMTjgzMzVYYnA1ekpPZlVoaFlUNDk3WXZIMy1taEZGeHFqX3VYZV9yM0hMSWpaWDhOYVVtZV9wTHdQbWVReFdNeVBNd1pURlFIZjgxT2IybWxNZzRsTkNQWVoyM01uR1BhLUJyU0NSZ1VPWlo4WnMtU21uZVVpNmE5a21FWHRIZnNmZXRkb3VCTkFIbjR6b3hzUXRqQ3o1R1NuZ1NqT3BobGQ3UzBHWFZCU2VwQ0tWVTRPMmZpR1dkOFFMOGhQeWxWdEtLMmQ4NERSWEdCNzlQM0xYVjlrN2RGSGxia21jNWNtRVlWMTZsOFJMbFA5aHBNOVBpZ0I0YzZlcnFuWmpLSktncEtaN1djdGh4R0dabVU2MWo3RWNTT05RZlVGUUNxLVFnMnIybkhNZnFCd0gyeEZRdVlTNGQxS1hhQU9Ca0k2UEpqdm9HVFhKUVh2cWI4VVVvRWEtTjgxQ3VBQXFiOG1xbHg4bXNjbFJLU1VmM2s?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-02",
+      "title": "蔣萬安之子蔣得立錄取交換生被稱特權 她嘆：名人小孩不能優秀？",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5saFZ3N1V5WFllMkpEY3dFODNCOWJBQjVIQXRjYkcwZ01PX0dWRmUwYWxHY0EyakYxRHB1bG54bzlpVUdUWTR3Smc5Q3NxYXNBaGY4?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-01",
+      "title": "「台灣館」惹怒中國 光州市道歉：尊重一中 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sdkVXTVRoX3N1VGVwX1lZOExlLV9XSkdVb0RfMUVrc0prbHN4cE9hMm00TUYxQ0ttTk5ESml3YTJuZlliOUR4ZzlEQ05KXzhuR1B5RGNCdkNaT3h4a0V1czE0dDlxNEUyYlZERnlLRVM?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-09-07",
       "title": "你會誤以為蔣萬安濫用特權是因為忽略了這個可能性!!蔣萬安特權事件懶人包加徹底解析",
