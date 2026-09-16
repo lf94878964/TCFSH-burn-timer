@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-12T00:00:00+08:00",
-  "last_incident_title": "自動偵測：國外電競選手傳加盟中國戰隊！突為涉達賴喇嘛舊ID道歉 聲明「堅持一中原則」",
-  "auto_updated": false,
-  "last_updated": "2026-09-15T15:15:36.153415+08:00",
+  "last_incident": "2026-09-15T00:00:00+08:00",
+  "last_incident_title": "自動偵測：蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
+  "auto_updated": true,
+  "last_updated": "2026-09-16T15:18:40.496477+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-15",
+      "title": "蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hd2w1XzVEUWhRU3RJcHRzb002MWZrTFVfWTc4OUlRei15ZWxhcC1zR1ltVjlGZ2xBLVhMMzVZaEdodFlPdkVDcG95d2RYLWs0WjgxdU5mUjZkZDRpby1ISl9KONIBaEFVX3lxTE1XUi16aEtnTzF5Vml4VDVKWi12S2hvY2FnbFcxdDY4bGF4bU1BdVU1N21DOVFCdUFQSEY5NlZjZnh6X2RYSHB0RWYtSjFmMHRTTm5xaU5KeHd4NUJ0VGI3ZV9GaEZ3dFNU?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-09-12",
       "title": "國外電競選手傳加盟中國戰隊！突為涉達賴喇嘛舊ID道歉 聲明「堅持一中原則」",
