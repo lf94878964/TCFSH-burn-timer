@@ -1,8 +1,8 @@
 {
   "last_incident": "2026-09-15T00:00:00+08:00",
   "last_incident_title": "自動偵測：蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
-  "auto_updated": true,
-  "last_updated": "2026-09-16T15:18:40.496477+08:00",
+  "auto_updated": false,
+  "last_updated": "2026-09-17T15:14:00.200917+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-17",
+      "title": "有片／丟臉！南一中學生朝馬路丟球…嗆「沒差，又不是老師」惹議 校方回應了",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxd0g3VVIwVUE4V1RTY0JmRkxzVnd4WHIwS1Iza3lXaEY3RVVPUFJXdEQtR2N3WlpfQjhEXzEzS1A3NW9TbVA4YkR3ekgtdw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-15",
       "title": "蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
