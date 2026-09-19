@@ -2,7 +2,7 @@
   "last_incident": "2026-09-15T00:00:00+08:00",
   "last_incident_title": "自動偵測：蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
   "auto_updated": false,
-  "last_updated": "2026-09-18T15:07:15.601353+08:00",
+  "last_updated": "2026-09-19T15:04:48.417053+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-17",
+      "title": "有片／丟臉！南一中學生朝馬路丟球…嗆「沒差，又不是老師」惹議校方回應了",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00RTZYR29pQ3RzVnZwdDZDR1lFd08yRHZ0TllZeEtuLVZoMExrRFBaV1YyemFIR2l5Qm9GS2VlaTczbS1udkluSHpUMHNidw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-07",
+      "title": "合法不等於公平",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53enRubUhtb00wc3dOSG4xeTFScUtWZDJYUjVXUFlfTlg4UGZKTHA2YmtaWmx5QUZFVUM0NGpSY21YSkZWOHJTMDdDNi1KcDJDcUE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-17",
       "title": "有片／丟臉！南一中學生朝馬路丟球…嗆「沒差，又不是老師」惹議 校方回應了",
