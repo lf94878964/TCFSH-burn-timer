@@ -2,7 +2,7 @@
   "last_incident": "2026-09-15T00:00:00+08:00",
   "last_incident_title": "自動偵測：蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
   "auto_updated": false,
-  "last_updated": "2026-09-24T15:16:55.233648+08:00",
+  "last_updated": "2026-09-25T15:11:02.115550+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-21",
+      "title": "台中師PO「摸鮑魚片」爆性暗示爭議 學生崩潰喊噁心！校方火速通報",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPbDAxY2VDV1BjX0N0LXBpd1hLZExTU3YxRTZQWDJJQ1VjZUJubjFyQlVIQ2s5aUhIaEp5bnA2X2tueEF3eV8xSV8zZmUxSWxyZk5sMWx1cGRMTjR3c0s4elJ6cVdBTXQtcGRGSUg2bWJmOVplR2E5YTVOMDFOVHpQV18wQW0zNmVBdm1IUFdEbF9hTk8zdnpVSkpUTklUV0VIeVpqWG04UXI0ZThsdXBwWUZwdExPYjhmTUN2QlpQQk1GUG9MaS1ZbHAwV0xxSHVwX0l2Q0lhX3o1d1VFd0xqelVqTjZZekUwYzVpZ21NUHl5UEgta2E0VGNnNEV1MjYyR0g5UGo1WS1ybWxmYUlvOTBTQU9LbUFBT2VPbU1USzdHNVFtRGNBbTlWQmhzOVNLd1JsbUZfT0QyckVjQTRQSld2LXIzMVl1NDQybUZCM0VGUVVRR0daMFpybnBzZ3JlYVQ3NDBHZlRpOFRTU3BoaTdoRXctWEZ6aU9YUHJSMTVHT19SdS1pckwxc3pmN2Z1d3pj?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-21",
       "title": "台中師PO「摸鮑魚片」爆性暗示爭議　學生崩潰喊噁心！校方火速通報",
