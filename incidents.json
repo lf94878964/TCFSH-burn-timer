@@ -2,7 +2,7 @@
   "last_incident": "2026-09-15T00:00:00+08:00",
   "last_incident_title": "自動偵測：蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
   "auto_updated": false,
-  "last_updated": "2026-09-25T15:11:02.115550+08:00",
+  "last_updated": "2026-09-26T15:07:20.444050+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-21",
+      "title": "「特權步行」（Privilege Walk）",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tblNPcEEtZ01RQjZ4R3lGbXJMTEFLanNrTG5PNE9wNDM3dXBYTXN4c1ZHeXhDeS03N3Y4bXNXaXUwNHZnb3E0SVBWMlZNQ3FPTm9UZl9obno2cjFz0gFiQVVfeXFMUEhsbl83Q3JZcXM0REg2ZXNLdnV4alBQaXpLdUpObGhqcHVsRk42UGViei1FZGVOdVZSa2NtZHA1MTJGN0VMeEtPSC1LNmxELTBpVmVuOWh6b1VkR1JLQ08zeFE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-19",
+      "title": "中捷「一起上藍盃」3X3籃球賽梧棲開打 挨批動工秀+1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PVzhKejlLaE9pcC1QeW50d1g5aV8tbUsyRldxR2tZTHp0d0pVem1yc0dkaFlpNjZYT3pEVTRSeWp5SEZKYTFXMUdKNWNzeHFEcEFrZXBJVHh1cVQ3MGlqbURTcUrSAWpBVV95cUxOdVhVbFlxUU9vV1FsQmJIdEpBVEFrajFrSW5TNnRzSDZTZ1hDeHpQdFVGcGlGOUdCVXBILUFqaEZiTzBjdDNLeDJJaDZxREJ2OTAtd1dONmVtZmF4OGREMnl6ckhLMW42NENR?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-21",
       "title": "台中師PO「摸鮑魚片」爆性暗示爭議 學生崩潰喊噁心！校方火速通報",
