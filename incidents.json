@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-15T00:00:00+08:00",
-  "last_incident_title": "自動偵測：蔣萬安妻昔赴APEC發言遭炎上　洪申翰：正式會員名稱就是Chinese Taipei",
-  "auto_updated": false,
-  "last_updated": "2026-09-26T15:07:20.444050+08:00",
+  "last_incident": "2026-09-20T00:00:00+08:00",
+  "last_incident_title": "自動偵測：被炎上波及！日本YTBer愛梨挨批「假裝愛台灣」發聲了：震驚又難過",
+  "auto_updated": true,
+  "last_updated": "2026-09-27T15:39:40.183230+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,48 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-26",
+      "title": "一歲擁有土地挨批！黃國昌出面回應自曝一家人住農舍| 政治",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfV1VtRjFwZVR2bDNiZDdnbzZWbDVvenMyc2paZEVDWFFINVF3dWJ3MzVvSG1NclJpODZEam9LeEhGeWNuekhZ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-26",
+      "title": "孝親洗腳用瓶裝水挨批 北水處趁機推便宜環保「零售水」",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5zTEF5dVdkdDE5YTRtZzVTSlZYbi1Qem16R25XVENfMG94aDltYWFzM01iYVFXQnllNHJYdjdvU2dfbjZ3b0w0?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-21",
+      "title": "前空姐參選人「合照貼太近」挨批逾矩！沈伯洋高EQ回應　網讚：更圈粉",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yekMxYmttbEJuaEc1NWYzUWdMcF9uYlhfU0Z5QWdCNTdsdWRUNHItalNnbS1VdXV0akNEM29lbzNjTnhDWHlsZtIBTEFVX3lxTE5lZ21DVHdKTUFfaFQ1eU9vMG5pTTAxaTBOWC1fRGpUSVFJSFRlWTNEaXlCeEg5S1NRYWNfU1JDUkZMeEpXMEhhVE9NMXM?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-20",
+      "title": "被炎上波及！日本YTBer愛梨挨批「假裝愛台灣」發聲了：震驚又難過",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QSHcxcVBneUVka21DQUlvZGZfaGZSU1RPQUtTQV9mWmZvTG4wemJhd0EzVDMyQ1dCcTdfdS1jaENJMkpMUzVNadIBTEFVX3lxTE5Hc3J1ZXlpMEZ2djVMdEpSMzRqR1B6ajU0R3ZITzgwVWtCYXNYTFlXcXAzOXpLUUhWOF96ZkdhbU41OXhjRk90MnBwMDQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "中職／勝騎士「滾球」惹議　平野惠一賽後道歉！痛批「不被允許的行為」",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zN01NeHhWUFVlTDRPalF4eG91aEhlZERUVzBKN1hCZHZpY05WMWhwT09abGh1aDlPbnhRTlBXWV9OZmN2anhaMNIBTEFVX3lxTFB5Ylk5NnFfVU5Cekc1RlNnb1gzU01DaWl2VmlESTFtaW13Y1JkalZLNEo0MHVZMnlaZUd6Y1M0WUpWdGlxZDNhemdPeW0?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-14",
+      "title": "蔣萬安兒讀師大附中國中部惹議　教育局駁量身訂做：這規定101年就有",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93R3dxYTFxZzhoNEluWi1IekNBc2JvdUxJUjFRcHk3QlcxaXg0UGZkUXVkbEVxaEI0eUR2QjZJQUREYUpOVV83ONIBTEFVX3lxTFAyOG9URGo1RExHR0Q1SVladnhNY0N2YkVkNl9LUVBOYzZIVGV5VnZxX3hhc2pmVlYzVDFJbkQ4MmZEQlBXOS1TTGpHUng?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-21",
       "title": "「特權步行」（Privilege Walk）",
