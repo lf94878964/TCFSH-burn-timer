@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-20T00:00:00+08:00",
-  "last_incident_title": "自動偵測：被炎上波及！日本YTBer愛梨挨批「假裝愛台灣」發聲了：震驚又難過",
-  "auto_updated": false,
-  "last_updated": "2026-10-20T15:13:41.286545+08:00",
+  "last_incident": "2026-10-08T00:00:00+08:00",
+  "last_incident_title": "自動偵測：中職季後挑戰賽》焦點1：滾球遭炎上 勝騎士G1先發滅火？",
+  "auto_updated": true,
+  "last_updated": "2026-10-21T15:08:19.073708+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-08",
+      "title": "中職季後挑戰賽》焦點1：滾球遭炎上 勝騎士G1先發滅火？",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HNlBDVENJbjcwTEhIUVZabHZZYm1LQjB2VmowV1Z1VDVGelZIQ1RMWFAtWXlKTmxiOS1Sa1JMNy1aM2VCU0l0TjZSUHNkV1dJNlJENWc3UdIBXEFVX3lxTE5OUnMyUFpaNDJpdkczdkRyRkdGMGhRYXhFZllpNDdpV3MxWmNoaXA4Wm1xRjZkcjR0SFktNTVwUUEtWlZxZDZtOGMxNDl2VUg4WUlRSnByMHQ4aEZ1?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-10-16",
       "title": "昔中捷事故鼓掌惹議　林良泰現身挺江啟臣",
