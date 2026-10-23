@@ -2,7 +2,7 @@
   "last_incident": "2026-10-08T00:00:00+08:00",
   "last_incident_title": "自動偵測：中職季後挑戰賽》焦點1：滾球遭炎上 勝騎士G1先發滅火？",
   "auto_updated": false,
-  "last_updated": "2026-10-22T15:10:40.594404+08:00",
+  "last_updated": "2026-10-23T15:02:32.748556+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-23",
+      "title": "中俄公報重申「一中原則」惹議 外交部駁斥：扭曲2758號決議、貶抑台灣主權",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tN0VsaERraTMzVzJ4VDB3SUR4bldDT2tpSFRLbkMxaDM2Yk4yOEhtVE1pdE00bFF5TEdRbzJHUEJVa0M3a21nTTYwRGdudVg0eVN4QlRDbWVNMkU?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-21",
       "title": "星展香港推全港首張Visa Infinite Privilege信用卡 主打理財及旅遊禮遇",
