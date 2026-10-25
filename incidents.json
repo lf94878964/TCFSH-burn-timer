@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-10-21T00:00:00+08:00",
-  "last_incident_title": "自動偵測：中國地圖缺台灣遭出征！電競戰隊急刪影片道歉 聲明「支持一中原則」",
+  "last_incident": "2026-10-22T00:00:00+08:00",
+  "last_incident_title": "自動偵測：不是第一次被炎上！「美美」鄭浩均過去情緒管理不當事蹟一次看",
   "auto_updated": true,
-  "last_updated": "2026-10-24T14:54:41.184918+08:00",
+  "last_updated": "2026-10-25T15:19:25.984934+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-22",
+      "title": "不是第一次被炎上！「美美」鄭浩均過去情緒管理不當事蹟一次看",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOZ3JqMy10cTdUUEpvaTJHTnlXY3VPVzRLc256SHQwejlsdGZHZl9SQkFNbWJwRWtjdUhHQU1ZS013VDNtc2tsRUd1VFc3N2dWZFpMbVViSENzWXczVUM2Qk10ZWRrSzZ3cFZNRmhmVmZtd0tIUmFURTFnQ080VVQ2dVBYVkdxbW9kaW5sWFhoQW1lOTZxOXNjN0tDY0llTzVWZHRRaWdBazktTThhbWxwMUxSd1VLUnlvcDNlLTE4TXk5YTJNY1BSeFBJTzcyM1RQMWFXZGRyU3JYWG5uYmxmWmRYSmVlOFNkSWs3NEhfcnJ0S3hpLU1JVGh0aDg1Vzd2b1FRLXZRbmVYS2ZsOHFSWWxGd2llR3Q5Sk93T3kyRkEyOUkyZVF2alN1T0xPS3I4dnlhZTdmZy1iZURiNVFfeFJncmhrWW9SWlU0TWpValNqbWZCNUYxdmRjWUZPUWc3d1VaMjR1OXp3LVJpZnBjbWkzeFZMX1BpWWExMmtKRm9PZw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-10-20",
+      "title": "店員揮拳沒被「炎上」反而爆賣？甜甜圈店翻轉公關危機背後：它打中服務業的痛",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cVYxYmJ0TXVjb2pvN0xVbF81bTRLOTRfSnpYTDRkMEVVTlczRnhOaDFKYnZSM1luS3lqTzBzMk5LYllJcnJLUnZYMWZMMHlEUTE5S0JyaWYxRXJBS3RBNjhHbTBmdw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-10-15",
+      "title": "抖音喊「小小賴清德拿下」惹議！中籍生道歉稱「無傷害意圖」：台灣主權由台灣人民決定",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14RWd0RVNZMVg1UzhfTkhySTk0dDBHUjdNeHg4NlRzVWNSa1ZfRWg1YzRxcFpJd2hab3pRZFRDdXh4ems0MkZKRkg5RQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-10-21",
       "title": "中國地圖缺台灣遭出征！電競戰隊急刪影片道歉 聲明「支持一中原則」",
