@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-10-22T00:00:00+08:00",
-  "last_incident_title": "自動偵測：不是第一次被炎上！「美美」鄭浩均過去情緒管理不當事蹟一次看",
+  "last_incident": "2026-10-25T00:00:00+08:00",
+  "last_incident_title": "自動偵測：地圖沒台灣？電競戰隊遭中國人出征 急刪影片道歉：支持一中原則",
   "auto_updated": true,
-  "last_updated": "2026-10-25T15:19:25.984934+08:00",
+  "last_updated": "2026-10-26T15:28:23.139390+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-25",
+      "title": "地圖沒台灣？電競戰隊遭中國人出征 急刪影片道歉：支持一中原則",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOZm9xT3oxYmpHV0YzY0tKZHNyek9pcUVJQzFXNVhWc2pnUXdBZzVOcjZ3T2VtWmJ2XzdQNDFqdWJ3dEE3al9WazRpWXZNeVNRU09SRFA4MTNqRWs3d3N2YVh1SmJVWlgxdE5MaE5WRjFuaUN0a0s5d0kwSDhyWlRkVlQ1VlRBU3o3ckpUSWtvckFFN0F6cE9MOXMtbXF5ZWtBT1JLTENnSF9wOUx3Y1VUcTJpNTRmVVVHZ0xFU3padnVvN0ZZWEhwc2x2ZkZJaEZ2LV9sTnhzV2RocFk5Vl82VDRPZVFBcGg1U1c3WVVNX1ZMRjgzUDdBMlBPWVZHQ1hGQW41QkloUlVISmpQcTRwbGt1b2x5eTRHR0puQks1RVhRZlNQVkxIakp6aU1abS1wM0hBcjhoNkNlZDRfY20wemFNX290ZXVWR3lISmxTLUt5N2NKazR1SS1ucHFCRGQ2Mm8xVmhlaXRlZmFyRUxCcUlncVRXTUpGX2NvNXdYWTVuclF0S1FNOEtGVkZqRHItT09wZkFPbHhZbXVXMXBCQk5lVXBQazF2OWtTZUVZV1I?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-10-22",
       "title": "不是第一次被炎上！「美美」鄭浩均過去情緒管理不當事蹟一次看",
