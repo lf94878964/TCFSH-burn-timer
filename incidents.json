@@ -2,7 +2,7 @@
   "last_incident": "2026-10-25T00:00:00+08:00",
   "last_incident_title": "自動偵測：地圖沒台灣？電競戰隊遭中國人出征 急刪影片道歉：支持一中原則",
   "auto_updated": false,
-  "last_updated": "2026-10-27T15:22:44.384304+08:00",
+  "last_updated": "2026-10-28T15:57:55.226980+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,48 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-28",
+      "title": "許智超外遇不斷管教子女也挨批「失格」 長子犯錯竟找幫派籃球員痛毆",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZbEQzRGY1YllPNUJUTlBkUGdpbmFpcWJfbmdkdlhsWnIwVWdoeFZCUkl0YlpTME9KNVRzTUVWQjJHWnFVVkJpeFlKZ1Bzc1MyY3c?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-27",
+      "title": "新北市長候選人喊「一夫二妻、一妻二夫」惹議！抽中2號解釋了：搶救生育率",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54dDNoYTc0TE13UncxeVFsajBoMmRUOXFIb3hUZVhxaW82MmN1NG5NcklRRjJGU05VV3Z6d29zR3E2WmNORnllczhxNEpIcHE5aVp0Ri1WSXpDQ1ljMW5xaHM0Zm16ZEwwREpsOGxkZw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-27",
+      "title": "新北市長候選人喊「一夫二妻、一妻二夫」惹議！抽中2號解釋了：搶救生育率",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNNjBFVTFGNExvSkxhQTZrVDhKUHhGanJXdnBzeWMwSjFpeUhVUHZJYXBDcWFBUHBSbEFMNlZ2azB2RE9ZbHk1R3ZBMkdyTWUyZkRmRVRfMzU1WEE2SEJrbXpwNkktWU5vOFdGY3FodTR6T1ZfRjhVcGJCS2VrX19oRkFFUGRPZlROUEJLX0ZUWW1JU3BfTV9nRGp6SXl0U29aY1dZMlpReWNHNGpzVzlaM0xZMmdsOUxHYmJ1RE0xazNQYUlwd3NjNEEzOG05VTVVMlFsSjhtYzFVMThVd2h5TVZuTUNMMVRMYXNsX3Q2R3JuZ2FwbjFSWnY5c0dZWkFRTEJETEd2cVZpTktSY1RvdVYyWEpEZklSQ25kODZGdG1Ic1FvWWwyWURlZklWY0ZBaGVNcExmSml0ODZkd0VId1NfazV1ejI2MW9YTXRyTDRiS18yajl6S0dmY3FadlItcEE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-27",
+      "title": "新北市長候選人蘇輝湟抽中2號 倡一夫二妻或一妻二夫制惹議",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPbnprRUZRZl9WcUlYdDI2cUZUcWpYWk4zamROWDZ3eU1yX2g3UFNIWlFmYkxzMHVRZHN5b1JlQ2doSl9sUWFXTFBueWM0Wndvd29jcGhtMU9rcXZjVjF4YzdnMU9rWDZpMlFlalVIeUtEb1dGTDVZWVNUeVFmdlZ1VmYwM0I3NkxwcF9JMUo0VlY0dGNkdlBmTUhmbmppQVNUTmI1Q0FwMDdXZi1tM0pZY3paTWxtOXVBVFRhRjNEam1xYUZlT3pQTXpoeXFYYmg0aHFhZ1laWW5QTzRwYkZYcDhIbEw3MzJyNXZZNm5HUXVlYXZfcmphb3ZHRzRmQk1BeTJRYVZYd0RZbEJYY3hpMkNPeHY1NjdZSk9fXzlKblFDNzlmV2djRXN5WmNnUXRNdV82VzVSQzBOUG9jSFhiSmU5ZW9kTjNnVTNEankwalY2VHp0TU50WVlIMlcxckdPUnU3alcybkRFUWMzel9CNjg2Q1RGckJr?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-23",
+      "title": "解碼》吳子嘉遭搜索無保請回惹議九合一選戰恐讓在野撿到槍",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WdDBNV1R2SFNuR0lYMk01aE9HYjI2Q3pYczFQX2tkaHdrTUI4NFVsTEJGNnhTdy1XN3Rfemd0ZlFseWg0NkFidV83RDJqVmFYMUZnY2JRb1JlVU5UekNWRnFLcVpuWmNtY0xLOFNB?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "專訪沈伯洋惹議！傳國民黨中央委員連署開除趙少康黨籍 蔣萬安回應了",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VWTF2LUNPQ2dyVmQwbFJFV3JidEdoTlJhSDBlQnhiaWZlMElFVVluQ3FMVG5WeFZVdFJqd1BKOTVxOFlWcVc0clFuT2xFZHlUSGhTc3I4SDFJVlhQdXowUDFhTFI3UG52UVpDQ3p3?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-25",
       "title": "地圖沒台灣？電競戰隊遭中國人出征 急刪影片道歉：支持一中原則",
