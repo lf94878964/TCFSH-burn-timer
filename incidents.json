@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-10-25T00:00:00+08:00",
-  "last_incident_title": "自動偵測：地圖沒台灣？電競戰隊遭中國人出征 急刪影片道歉：支持一中原則",
-  "auto_updated": false,
-  "last_updated": "2026-10-28T15:57:55.226980+08:00",
+  "last_incident": "2026-10-26T00:00:00+08:00",
+  "last_incident_title": "自動偵測：中職／稱兄弟2勝是精心策畫惹議 魏應交道歉了：未妥善拿捏分寸",
+  "auto_updated": true,
+  "last_updated": "2026-10-29T16:05:44.136754+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-29",
+      "title": "巴基斯坦禁台灣班機惹議 世仇開酸：不會因一中政策就禁",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTRCMTludndWRUNCWW0xVGJPODRFTXhQaEs3aVZ0ODFyVnhBellBbVllZmNRdTMwR3JGUVMyajVUVmkyYmlTZk5iNnVpc0ViZ09IeHQxcWhDUTVkTzQwSXpCQnB5U2NlMmlRNDE2NWllWEo1d3h3cjFrcW9GaFZJbzVjVG5lWHVHSVE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-26",
+      "title": "中職／稱兄弟2勝是精心策畫惹議 魏應交道歉了：未妥善拿捏分寸",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HdWp6RlZvWlpCazZWR3JrM0ZjUHdncFcxTGgtV0RzY0lpb1A2dklVMV91VW1aNHhOV3Z6cEpNY0oxRWRKSm9sZjlVYjlOWkRG0gFWQVVfeXFMTV9iU3EzR3RLemh4bVpfVXhSdnViak5nbTdIVDhNU3IxblViTi1HNEotT0lNZmVHZ3NJaGtvTEloZFpraDBTaWhINWxIWk5aZjJpNnJQT0E?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-10-22",
+      "title": "世新校務改革惹議！教育部直指重大疏失瑕疵 1情況恐砍補助和招生名額",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHbXhQd3hGaEdQdjBUY0FrbmR2R01tUk9DNlZzaF9XNERVRGtuT09henFjX1lBNXE4NjlqbDJDaE5oWVJtS1lOQzIxaDRXR3RQ0gFWQVVfeXFMUEJjQ3paU0pHOUpsbTJ5M3huWE5mcmpQdjlYcERCX2xxM21NZkgxS3BQblZzZE50TUZnQmwxVVJmbUZfY2hRMms0cnhjVmpLR1VOclhBbHc?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-28",
       "title": "許智超外遇不斷管教子女也挨批「失格」 長子犯錯竟找幫派籃球員痛毆",
