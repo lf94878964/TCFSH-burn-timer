@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-10-26T00:00:00+08:00",
-  "last_incident_title": "自動偵測：中職／稱兄弟2勝是精心策畫惹議 魏應交道歉了：未妥善拿捏分寸",
+  "last_incident": "2026-10-29T00:00:00+08:00",
+  "last_incident_title": "自動偵測：遭指申報系統外洩候選人個資 中選會主委道歉稱廠商無心疏失",
   "auto_updated": true,
-  "last_updated": "2026-10-29T16:05:44.136754+08:00",
+  "last_updated": "2026-10-30T16:08:43.644246+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-29",
+      "title": "遭指申報系統外洩候選人個資 中選會主委道歉稱廠商無心疏失",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yMXZUejVwUXRGZEVReXZlcTRTbVZHV0VZN193YzlxRWVRcXhCdkpiVkdwdU9VSWpLOVRvOUM4SnZJV1doaENyYkZpR0xyWWs?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-10-28",
+      "title": "魏應交\"精心策劃\"之說遭炎上 是合理的聯想？還是集體PTSD？｜公共電視",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QTHoxYWY2OXlOTFdqaWVTX0g2ZS1IMTlCd1F5cFo3RFI4d2NBdlRWb3FqQlkyNi1EWHFSQm1fZjVzZE5rNG4wdEJpRQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-10-28",
+      "title": "姆巴佩道歉：「中國獨裁者」迷因風波背後的資訊真空與「毛澤東熱」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwdVNrV3h2bnBGQUZoTUZEVUtORTRrSUNaNE9Tdi00SnVQdWJJMEZMaFI4LVpkWktQYmdoMlJzRUpFZWpCRVRCb1BmUVFnVE0ybkNKMjVNQS1kazJMcFB1bXhRSEd4ajTSAWxBVV95cUxNTUpXWmIzRndUZjlKcTdSbm44UEVzRDZtYlh4RjU1WnprNEFmYTVUdm13SHFia3c2UTBrNVZYNFYwdDNCUU5ZU1JjY0VWSUlWbzZzYmlVUnM1UTBQT2Jkb2d2bTFRZXQyRm5XVlA?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-10-29",
       "title": "巴基斯坦禁台灣班機惹議 世仇開酸：不會因一中政策就禁",
