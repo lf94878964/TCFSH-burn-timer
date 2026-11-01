@@ -2,7 +2,7 @@
   "last_incident": "2026-10-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：遭指申報系統外洩候選人個資 中選會主委道歉稱廠商無心疏失",
   "auto_updated": false,
-  "last_updated": "2026-10-31T16:01:58.234101+08:00",
+  "last_updated": "2026-11-01T16:48:09.080475+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-10-30",
+      "title": "韓樂團來台開唱前夕惹議！刪台灣國旗、進軍中國社群平台掀讓票潮 主辦破例開放退票",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vSmxZMUFMdkJXMFZKVXNPUDg5RE0wN1RKb1M1T2ZfcFlCN254MUt5Wldrb2djWHU2ZnRQcFVKZnB1WW5tMU5qVkRvMA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-29",
       "title": "遭指申報系統外洩候選人個資 中選會主委道歉稱廠商無心疏失",
