@@ -2,7 +2,7 @@
   "last_incident": "2026-10-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：遭指申報系統外洩候選人個資 中選會主委道歉稱廠商無心疏失",
   "auto_updated": false,
-  "last_updated": "2026-11-03T17:04:02.262602+08:00",
+  "last_updated": "2026-11-04T16:41:32.437337+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-02",
+      "title": "蔡其昌「鮮奶弱智」說惹議 徐巧芯：洋流還溫暖嗎？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hMklTd0ZIVzVtbFJtVHFGR3dDZzIwYjBZMTFOWUhBNTdGNVo0QnRRaXQxOU1DbzBUV1pKT2p5VUY5ZER6QXJsYVNEdlk1YmhJb1lUb2tVVThOdHc?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-10-30",
       "title": "韓樂團來台開唱前夕惹議！刪台灣國旗、進軍中國社群平台掀讓票潮 主辦破例開放退票",
