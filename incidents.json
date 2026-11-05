@@ -2,7 +2,7 @@
   "last_incident": "2026-10-29T00:00:00+08:00",
   "last_incident_title": "自動偵測：遭指申報系統外洩候選人個資 中選會主委道歉稱廠商無心疏失",
   "auto_updated": false,
-  "last_updated": "2026-11-04T16:41:32.437337+08:00",
+  "last_updated": "2026-11-05T17:01:17.417973+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-03",
+      "title": "調查報導／台肥副總黃瑞楨 爭議中升官",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpajBFbWlGSjJTZVR1UkJQXzBSSDN2Mmc2TXcwN3hodXFOWnhJQl9qMFNyQnhZNUJ3R0NhT0JmWkN4X2VJNzhZODhIN0kzQkRHQ2Q40gFYQVVfeXFMUExfWDU3bHFoclBRMEs3elVSMTBIQnNkOE0zQnpaelRHcm9zYVJmd1pzYXF2Q2JLYXNPR2tFU3dSZ0djTllvQkNmVmRqVC1MZElENWZ0VWVnOA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-10-29",
+      "title": "日劇VIVANT劇情挨批辱華 TBS社長：虛構作品、無意敵視特定國家",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aSm5EMFdmc0Z1OFBzanU0WmQtZzRnU0NpSFBLdmdLRy1PUjBFOG13Z2JyRlp6TFFEelhkMFR2VXpIMUpTWmVOZmtGMzlSM3hkcDFMWDBPSXBRQdIBX0FVX3lxTFBUYnBreGpfUnd0UVB3OWFxdUtVMmJMV0U0cHl4MWRfTXFtcjdweHdwbFAxZGxCUl9ITlF1eVhtU0YyMnpHRHNhclBiYzdyS205c2J2V3ZYVGhaMjVUSXVF?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-11-02",
       "title": "蔡其昌「鮮奶弱智」說惹議 徐巧芯：洋流還溫暖嗎？",
