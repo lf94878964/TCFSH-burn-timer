@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-10-29T00:00:00+08:00",
-  "last_incident_title": "自動偵測：遭指申報系統外洩候選人個資 中選會主委道歉稱廠商無心疏失",
-  "auto_updated": false,
-  "last_updated": "2026-11-07T16:25:02.223046+08:00",
+  "last_incident": "2026-11-06T00:00:00+08:00",
+  "last_incident_title": "自動偵測：塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
+  "auto_updated": true,
+  "last_updated": "2026-11-08T16:39:16.897112+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-08",
+      "title": "藍粉包圍「又一村」惹議！沈伯洋昔回五分埔掃街 遭店家拒絕反應曝光 | 自由電子報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00c2VQeGpydEJ6dG1sRk5hLTBVdUVMRzNsU2ZIb1lEY3hHQjc5S3dwbnpzMmdyR25abDEwX1piQVVUbERGZVZWSVkwaEFVOXdnSXRhemhn?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-07",
+      "title": "夜市掃街支持者包圍挺綠店家惹議？蔣萬安澄清：若造成困擾不好意思",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tY2Q5NVRwSXctUi1CTnBIdVhmaEpYSmkzNjB3TTRmRVpLc0ZRZzNuazZiZkN2bENrM0FQTk1VZ3lGbk9Tc0d2a0RmWnhOOTZXMGRR?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-06",
+      "title": "塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uaTEwUmxUWWRyTjhCUHFMMG5OTE1OX2U0UlQwYUU5akZ6NzBQY2lIajRzTEhEeDZ1c0d5UUZyODFfUHplNGNhSmN6VFJ1czJtMDRYTWJOTENuVV9WUjllYjVQRVlaeGvSAWxBVV95cUxOMm9Cd2t5MDBIbmpMX3N0cFNEMl90MXlVb0ZSTUpXLTk0eGhiRzlvWWxtZ21OWm14aG82MXdXZ3JIQVd2cTh6b0daMW5xejl3ZEg4M0dmYkpXR3lHRFhrcklETVZoOE0tS1psRXg?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-11-06",
       "title": "國民黨選前喊普發3萬惹議！莊瑞雄轟選前畫大餅：只想賺政治紅利 | 民視新聞網",
