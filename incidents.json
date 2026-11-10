@@ -2,7 +2,7 @@
   "last_incident": "2026-11-06T00:00:00+08:00",
   "last_incident_title": "自動偵測：塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
   "auto_updated": false,
-  "last_updated": "2026-11-09T17:14:43.288285+08:00",
+  "last_updated": "2026-11-10T17:20:45.173547+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-09",
+      "title": "與沈伯洋合照比「3」惹議 秦慧珠還原始末：我完全不支持3號沈伯洋",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qdE9QazRRTEx3bFFXUUIwTThlT1lXVGVTalZ6VDJJOHpwbXFYZDlkeEJnSm1YQlBzXzUyakE3YVA5d0tudWdtSWx3aXJCaUUy0gFWQVVfeXFMTVBjZHJXV25fbFJDYWdHd3BjVVhQV2c5NlJDUVA0ekZmTF83RDJfNTB4QUlSVkEyX0wyX0FrMWxyeTg4QlJwVHkxZkV3VkZ1dUR3YnNPanc?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-06",
+      "title": "合歡山周末實施高乘載 挨批「感冒卻開香港腳藥」",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DRzJfaUQ1a3UtTGoyWC1pQVFrMUtCOHNFNkpsbXZnNUYwZEU3Sy12T2hhbWcyZmJOWFA2ZVNucVZWQ2NpQTBCUmVsWHpWbXE20gFWQVVfeXFMT0lGMm0tcWpFVlloUmF2dTJWaWVCUUZiVTdnMl9KQU4tbC1YdXA4TXhSSnJTYlNqLXowUU5wT3lBeDBmTXptUjRsVzVhT1JEc3gtaXoteFE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-11-08",
       "title": "又一村叫囂惹議，蔣萬安今反問「為什麼其他店不會如此？」再惹怒網友、臉書被罵聲灌爆！名嘴批：居然檢討受害者，對他的選情太傷了",
@@ -912,13 +926,6 @@
       "date": "2026-04-24",
       "title": "讀建中就是一種特權? 他曝「成就不會努力就得到」： 有優勢不可恥",
       "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPQ1lqQkdMNUZxMkFydVQ3QXFvNlBia19TOXlWUGtfZDc4aG5hRWdQcnRiQ3JUT1JJa0JFM0NrV0w5YjVqUVk5aW5BSENhTk1qZzUzNmdoNlFQUk9aUEFwMnFMc01oWGh1b1gzMXdlYU5IMWdoUThzcW5IRGNNQWN3cWZ2aGRQTUJIZG0yemVUdG5FbXFwczhyQ0FhcVVSOVdvYWE0SUlqVlk0SWNXRkhiaWpZSkYxV29vQUxNVTI5R3FZZGVCci11MEdJa3d5UTZsUmFHaldaMXk1ZXQzdVQyTXhpWFF4SGNvN0JMa2NpRmFKX3gxMG1SQ0plQU5LVGl4aUJ5VXdFc2phbVJINDhGVWhWWFJLOTlIWTR3Sy02WjQ1TlNsZFJ4MENIUXUxMFpzRFl2bjZ5ZVMyMl9XcG4zOTNvNDQtNmJCV1BLV05EUENveGFHNjhqRUZfQzVsQ0FBakdOYklDRFQ1RWk5S0ozNXdlQVM0ZnliUFBxTHlNMHY1eFFzckhFMFlXVEVUMVhWb1ZfemQzcnJFUV91MjN0YWE5VERRQlhQOEVjZ0JYdkZidlRTaVlrMy1ncGVGejBvY01QcHZDWGhIUy15c1Y2RmYwek1NLTI5Q2w5M3BBMXNZWGFnTEI0UzVNRURQWWdZNm1PNUtKdFY0SjF3UXlHODVaUWYtOWF3bmViSXBrQXQ2LTZwQ1BPV0tEUTRNYldiZkFYWnNaX0YtWWdzMllXVXZ1UTlfeG51T242cVozNW0xTkJXeVdwT3VhZ0I2M3VBWGxxVHJ6RzVZMHRyU2hBU1BnWTE0Y1p3U3hKZkRDSTBRdWJJdTloaFg2VnB5bGVCeGZrNUJnZEdaQVc0U3dZ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-04-12",
-      "title": "讀《寫給每個人的社會學讀本》：特權該從何說起？有「霹靂力矩」是我的錯嗎？",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PMjBjTXpDbGxmRHBJQ05HQko1NVh4anR0dEpObVVKek45blE3eEZMZHJ0UVZ2cTZKUHg0dWxqZlN4WWIyY1diQUgxSXVsY2xoTG5EYw?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
