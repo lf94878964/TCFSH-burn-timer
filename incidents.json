@@ -2,7 +2,7 @@
   "last_incident": "2026-11-06T00:00:00+08:00",
   "last_incident_title": "自動偵測：塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
   "auto_updated": false,
-  "last_updated": "2026-11-10T17:20:45.173547+08:00",
+  "last_updated": "2026-11-11T16:54:54.945761+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,27 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-11",
+      "title": "遭羅大佑批評無子女 蔡英文：我會用盡全力守護台灣每個孩子",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1MFBEOGdhTUUwaWZxN3RfVHM5YjRndW1RMG1SOEJWYmRQS3Ntamc0MXBWYXRuTEFVRTlEQ3FJaUF0dDJ0dVdmUG54ckNwSmJJNzFQeHZfTEc?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-11",
+      "title": "喊長官、長輩「您們」 一票人挨批沒常識 正確用法曝",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuQjZ1R3BCZU9yQkJMYldfdmNoVTFydmhnalVQeVI5Ymc0VU1Zay1uZFBmeDU4VGxILVprQWFuN2RmVmo1SU9hWVl2eE9vaG5sZ1FqaVQyZUtIUlFUVjNnbnZiOTEzSmhHT2VvdmRB?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-10",
+      "title": "日經：安華爭議發言後台灣取消與大馬貿易會談，恐傷半導體投資",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2VMWTY3WnVIQW9EMmdwX3lnZGtnMDdmcHZ2aUVlbVBWSGVHaWNfMWNVQ1FGTkN4N2tUVUpJTnFkYlY2bjhuTU5QWl9udTJCOUJtMUZxUmVFWDQ1T2NUQkVwSWJGVlFMTnA4NHJaZjkyLWdKRklBRkJDdWd5T2hFa0l5clhtaXBDckF5UkxaRnhxT0pudEs1ZA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-11-09",
       "title": "與沈伯洋合照比「3」惹議 秦慧珠還原始末：我完全不支持3號沈伯洋",
@@ -905,27 +926,6 @@
       "date": "2026-08-20",
       "title": "安華涉台言論惹議大馬政學界質疑背離長期對台立場",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZlZkQ1lpN0hYY1k4WVNDTkdxcVA0X3dyaFRnNDZ5UXJGc1FVQWkwM1VMNVlBcGxGYlE4b052eEFtTUxoZHlIMG14WTlmMHBwZThKejZaZw?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-08-20",
-      "title": "回應支持武統爭議！安華：馬來西亞支持「一中」立場從沒變過，希望台海和平解決| 國際中心| 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ycmQ2dnJ2dkdjZjJzZC1GcDc0UHRWUExRSVZnNWQ5MWlkaHZvM0FTekd2NnhYblBFUk90SmJ0THF4V3NUMjVpZkI1WlhjQQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-08-20",
-      "title": "武統台灣言論惹議大馬首相安華重申一中| NOWNEWS今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0NSbXZydUlKYnZwOVNHVEZVbUN0ZEk4NzNGQnZwLU1tRlJ6ajFnMjc2VUNYQkgwd1FkR3Y2WUFYTnRSM1dTSkxjeTZGOWZnU3FqVWMxMDVJZERRcE1fenJyWWptRHV5ZDBvR3JJM25xT3Y3Tk82SkY5WkhPMFMtdkEySQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-04-24",
-      "title": "讀建中就是一種特權? 他曝「成就不會努力就得到」： 有優勢不可恥",
-      "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPQ1lqQkdMNUZxMkFydVQ3QXFvNlBia19TOXlWUGtfZDc4aG5hRWdQcnRiQ3JUT1JJa0JFM0NrV0w5YjVqUVk5aW5BSENhTk1qZzUzNmdoNlFQUk9aUEFwMnFMc01oWGh1b1gzMXdlYU5IMWdoUThzcW5IRGNNQWN3cWZ2aGRQTUJIZG0yemVUdG5FbXFwczhyQ0FhcVVSOVdvYWE0SUlqVlk0SWNXRkhiaWpZSkYxV29vQUxNVTI5R3FZZGVCci11MEdJa3d5UTZsUmFHaldaMXk1ZXQzdVQyTXhpWFF4SGNvN0JMa2NpRmFKX3gxMG1SQ0plQU5LVGl4aUJ5VXdFc2phbVJINDhGVWhWWFJLOTlIWTR3Sy02WjQ1TlNsZFJ4MENIUXUxMFpzRFl2bjZ5ZVMyMl9XcG4zOTNvNDQtNmJCV1BLV05EUENveGFHNjhqRUZfQzVsQ0FBakdOYklDRFQ1RWk5S0ozNXdlQVM0ZnliUFBxTHlNMHY1eFFzckhFMFlXVEVUMVhWb1ZfemQzcnJFUV91MjN0YWE5VERRQlhQOEVjZ0JYdkZidlRTaVlrMy1ncGVGejBvY01QcHZDWGhIUy15c1Y2RmYwek1NLTI5Q2w5M3BBMXNZWGFnTEI0UzVNRURQWWdZNm1PNUtKdFY0SjF3UXlHODVaUWYtOWF3bmViSXBrQXQ2LTZwQ1BPV0tEUTRNYldiZkFYWnNaX0YtWWdzMllXVXZ1UTlfeG51T242cVozNW0xTkJXeVdwT3VhZ0I2M3VBWGxxVHJ6RzVZMHRyU2hBU1BnWTE0Y1p3U3hKZkRDSTBRdWJJdTloaFg2VnB5bGVCeGZrNUJnZEdaQVc0U3dZ?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
