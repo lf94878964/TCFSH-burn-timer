@@ -2,7 +2,7 @@
   "last_incident": "2026-11-06T00:00:00+08:00",
   "last_incident_title": "自動偵測：塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
   "auto_updated": false,
-  "last_updated": "2026-11-11T16:54:54.945761+08:00",
+  "last_updated": "2026-11-12T17:21:45.502268+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,41 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-12",
+      "title": "羅大佑點名蔡英文「沒生小孩」惹議 詹雅雯發聲揭認養30孩經歷",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GS1VtWXBsU1B0b2RCdTIyY1B4VzFuODRXOVpNdXNpTHVnM25DbDBrLXUtMGNveC1CRDgycGVwMmhrSGRMR2dmYU5SRE9sc3Utcmgw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-11",
+      "title": "台馬關係生變？安華「一中言論」惹議　台灣暫緩投資協商",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85d1F4cnZ0VUNhZW9oX3g5U0ZqclA0Z2QtRGFGczFnaUJXM3dkME5BZkFBNGF6RFp2a1pkY2xyMndmenBnODB2eNIBTEFVX3lxTE14MFczY2UtYXQ5aFA0RXBTZGp0Umpfem9aSFBKVFE5R2t0MEJYV0dJZjNEWHFsV0hqa3Uzc2o3WmZ5eV9KZWxIZnpkeU4?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-11",
+      "title": "羅大佑言論惹議！赴中開唱遭酸「搜刮剩餘價值」　作家批：成亞細亞孤兒",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mdGt0T3ZaLUhDSXhjd2JYbDZodE9aWndLZXlDdk5XZHFVMHNRZXhWR1lBRlctWkNKeW9zOXlrZDBlUXdVV3dFTTZn0gFfQVVfeXFMTUtBYXRtUHZrZVd6c2hObDc2LXFuWjlpN3ZFZGNXRzMzcEhWMlhTTE9zV2dCenYweWJ2bkxpZU5nZVdBbXBGRkVEc0g0ODNZX1FTTFM1YVhSdk5KS2tZYjA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-11",
+      "title": "中客申請來台填「中國台灣」惹議 移民署「超霸氣回應」是真的",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWE5GYWhUcUFJRFZZXzNvazRxazdvZDE0bk5vRjRkdXlka1NjWmotdUFrbWJab1Q1ZnlEbG1uOTdWVm4yOGloVTdVYVBycnNlMTdPVWxyUGdhbnJDUWswV0diazlOLWpTYlHSAW9BVV95cUxOQzJQZFlKNnJDaGJfeEk3bUkxOTlfUm1ERmhwa3BqRTRJcFltZk5RWmNDWVNxU212ejFQMFFraTlRZUdXUUNINGhaS3pDYTV3YWxwOGtzRVB5eWM1SkZyVHNNX2QxM3poUUJzSGFHSFU?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-09",
+      "title": "菲外交部批評自家官員涉中言論 警告恐損害外交努力",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnczJLbGpkX2RfRkhETzVVSnVfMG02bGNqczJpWnhTR3BCalRMZnRYa3owOHNKYmVsWF9QbmVFVWkwWnZuSUFaSUx1MkNYLVlPcC16dUdPVWtmUdIBX0FVX3lxTE5jbUk3MldSWTlwa0dDQ2hfb1BfbFQzZmh5MVdORmF0V3BocWNLdXBibGFDVFktWVJIWkpDM2hkWXFHMnU3UE9MRjFTc3dPZlFXOElrZGVWUnVKU3FDYUlZ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-11-11",
       "title": "遭羅大佑批評無子女 蔡英文：我會用盡全力守護台灣每個孩子",
@@ -893,41 +928,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RT3c3dm5YZThDT1VHME9RMzVuaTdUSWQtRHJjblN3RjBHcVBVSUtPWEktZmxzdXpCYWZ5bGgtV3dIakhydEdfY2dnUllHYzVk0gFWQVVfeXFMTUdjckp6X0dyMWwyajUyb1phYjBEcGRScU9LMkZJSEdqbllfZlFvamVydFZTQThpRTN4b2xFeFlmVWgwVkRKb3JFUllxQ1cwLTJkQUJVNGc?oc=5",
       "source": "google.com",
       "high_confidence": true
-    },
-    {
-      "date": "2026-09-01",
-      "title": "雙年展爭議　光州市道歉稱尊重一中原則、台灣館為藝術表述",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEhqSjlLc3NjRTFaMVQ2bmVPSDdpTVV0QktXMlhteVdub3M0YUY0Z2Y1cVNGbEFsVng1WWhkeHFYbzcxeklWRWp1c1NUVlJ5NjlqalRObVJuSWpfSzRYMVpUdGsxbWlUcGg3N0tWR29sOWE3VGs1UnJiYWFvNnpvTtIBX0FVX3lxTE9jXzJiSnBWSjN4Q3AtWUhFN0VwUWhWc1JtREJ0cEFsRUpnelBWWFcyNnZoQWZFTTJrMjhHeEpDbnkyenpBSlV1bEIzM0RKNlRGdlJTYnFHOUJ3ZXZYTDJ3?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-08-29",
-      "title": "台中一中新校門「閃亮亮」 挨批：像八大行業門口| 生活",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fU1piTEtRQkJ5YzVZQWVMM2FqMjVsYnM1VVdiVnZPd0tCdm5KQ0pfRnB1MUVwRzhlS21NVmlncVhNQ1pENjJN?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-08-21",
-      "title": "大馬首相安華挺陸武統論惹議星學者：未來對台施壓恐引為依據",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HVF8zQmd3M0tyRThLaXpxeVRHcHVDS1l4UVYySjNYaVlGb2lZcE5rSEVYTVR1dWJvUklGeTRkS3lDNHRfc1JvdjE0ZGhPVmZQbDJja1FwcVFDbEFWcWpBUGFxSXBITTJiYUE?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-08-20",
-      "title": "武統台灣言論惹議 大馬首相安華重申一中",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYXdyTkp5TDVwRU1aSG5QYU1XelJVSVBvV3NoWmNYSmgyLS1QTWQtRW90T1VYLVltQ2VrWmk0Ri1SNElOc1NUbDJLaEYxT25TejNWTEJaSUI1THoyTmNfWE5pVlZWSGQ3Tjh2SXpmMmxQaUNPNEhNbE83THJ5N3dwQTBEY2tUdjlnTENxNHV4UVIxYVhXakhWSTRlMFEyLVplYXJlUkplV1VXNU44d001SkoxTnBvelVvd1R3Q2lXcEdCNTZEc21JbkI1NDJoQVpHMXFhZDVOc1QyWDdtamYzZ3VqQjZlaGhXYllnU0FiNDBtN1lNQXN1Qy11WUtUS0tnbEJEZktra0JnVy1Iam8zbUpMbjNTZW50aHpWcEc5UEZ2dw?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-08-20",
-      "title": "安華涉台言論惹議大馬政學界質疑背離長期對台立場",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZlZkQ1lpN0hYY1k4WVNDTkdxcVA0X3dyaFRnNDZ5UXJGc1FVQWkwM1VMNVlBcGxGYlE4b052eEFtTUxoZHlIMG14WTlmMHBwZThKejZaZw?oc=5",
-      "source": "google.com",
-      "high_confidence": false
     }
   ]
 }
