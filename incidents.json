@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-11-06T00:00:00+08:00",
-  "last_incident_title": "自動偵測：塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？",
-  "auto_updated": false,
-  "last_updated": "2026-11-13T17:09:53.522345+08:00",
+  "last_incident": "2026-11-09T00:00:00+08:00",
+  "last_incident_title": "自動偵測：防線不在晶片，在制度：黃仁勳道歉信背後，美中算力暗戰與台灣戰略盲點",
+  "auto_updated": true,
+  "last_updated": "2026-11-14T16:39:42.840624+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-13",
+      "title": "一中言論惹議後…大馬總理：盼恢復台馬經合會議",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xUFR2b1BzVmdzSEFHa05Rcm5Oc0pLOTdJLXVHTW9zSUFpZUNYcGh5X0lLQWlDSE4xZWp3Zmt6dkJFOEZfaFI1a0xMSkNJaU5h0gFWQVVfeXFMTTNHZ1M3NUNYUGxhSkY5T0tyNnZsazZqcVgteVRjckxvV1hEZGJHS0NDRXBRTE42dkFBTlNkUm1VRzNWMUlGYkEyS1BpRXB5bVFaYTFrWkE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-09",
+      "title": "防線不在晶片，在制度：黃仁勳道歉信背後，美中算力暗戰與台灣戰略盲點",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zODFuSzB3cjZFb3lWdVhlc3pnSi1pRkdvX1dVcTBtcmJtb2d2NGo0VC1hMGNqaTUySzB4RFp1TnhJdXBJbnBJZ1N5empQSDZJRjdPTQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
     {
       "date": "2026-11-13",
       "title": "一中言論惹議後…大馬總理：盼恢復台馬經合會議",
@@ -912,20 +926,6 @@
       "date": "2026-09-01",
       "title": "准用「台灣館」激怒中國！ 光州市發道歉聲明：尊重一中原則",
       "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeW5VTVliQ3I4cHBucXZVcUJfNWhSWUU5empMTEUyN3B6TnQ0NTdFLW02bjd1QUJpWXcyZUZvY0RPWHhPYnlqcGgyMVhVZjJTLUZqa0h0MzBRTmlwT3JuSFNpVFktSWJsZWdEazVhZHN1aWp4Q2ZmR01FX1VxRndGZlJGVFUwMXpwWEZVSFE2dHZyQTd4SzhjMnR6RmRZZ2NmdF9YSmdYbnROdm5PX083aDFVZzJwd2JxaWlUc19VOFFUVzlTZWRaUTY2djBqcU1xb0FabHFOOEZBRUhfak5yLVJUcjMycGZiVk91bEFhZHdHRGE1b2NwYlp0VUxJRWQ0SEFtRk82YXZFaE5zYUtpYkJOdUt5LUFZekxHY2c5YlI4TXRpWnBYWjJtM2lOQmVVZ2h1NFF5ZlBnSlVfaFhZSmtoNW90QTNSWjZ0NllLa2lkS0VHZmZRd195TXJLNGRjWUxEZTNIVWZKQTR3TlNCOXJXeVgzV2QwRkRYbVRR?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-09-01",
-      "title": "才恢復「台灣館」就遭中國抗議！中國施壓光州市出面道歉 尊重「一中」立場",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56emI3OTJ2aUdhWWp5XzlYSVl4emhLREZKVzNQTVVkc2RUb2FQQ3FISlYtTmpEdjExRVA3VTFHbWV6dmd1UW1ETUZhLUtYNWZBb0NobmVWVXF4V3RTaEJ4ONIBZkFVX3lxTFBWRjdPZ2R0WWtHOXBWRGtXMEhIa0VhMEZFanJfX0xhaV81TXJRRFd2TGhva0EzeTJacnBDWE10TE1LS3k5UDdFUG5USDhpNEtBM0hRME9UY2RObXk1LWtwN09mQ1hZZw?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-09-01",
-      "title": "台灣館命名惹怒中國！光州市政府喊「尊重一中」公開道歉 展方：仍維持台灣館名稱",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50TFBrTkFfT2hyNC1HWnhRaDRiV0l1SlhRT2JxUU44MGFOaUxMUVYxang5MGdhNEJGX3dTSkFCNUJDYTJWR2FjY01Dbw?oc=5",
       "source": "google.com",
       "high_confidence": true
     }
