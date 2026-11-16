@@ -2,7 +2,7 @@
   "last_incident": "2026-11-09T00:00:00+08:00",
   "last_incident_title": "自動偵測：防線不在晶片，在制度：黃仁勳道歉信背後，美中算力暗戰與台灣戰略盲點",
   "auto_updated": false,
-  "last_updated": "2026-11-15T16:52:42.988568+08:00",
+  "last_updated": "2026-11-16T17:03:50.716230+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,20 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-15",
+      "title": "蘇巧慧斷牙一晚修復遭疑特權 她反嗆：沒看過臨時牙套？",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92dHIwcEVEUlQ4Q0JyRjVZcFBZYy1vSE1Sdlg1VEJ5TmFMbUVvSHA2M2ZaVV9CdlM5RUN3eHRkczVkdUpwLTI0SDhmZnVZVUVLd3JYT0R4NGd6ZGY4Sy1PR19CV1lHVUVBMDJpb1NR?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-11-12",
+      "title": "新訓、教召播沈伯洋教學片 國防部挨批介選",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tR2V5WjhacWI1aUN6SHdJUklYdk5FSlRyX1phajNseVdfYVQ1MlJBamRfWExQb21FaE9jZFoxbDRKMjlDWFZCRUhkRi1TeWJWbTVPVDlaOFRkNm5xOUc2d0ln0gFnQVVfeXFMUEZlSGdXTjk5MFhzamxKSDFHSmZyV1MyMEZ3UDVRaC1YRC12WUJsUnI5WFJuODhYanFhQ2RmdUVoZFFXYXM5Um1nT21VNjAwQjFiMnE0R2xaWHNjYkpFZHhIaFRLQkF4cw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-11-13",
       "title": "一中言論惹議後…大馬總理：盼恢復台馬經合會議",
@@ -914,20 +928,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2SU9HaG9ZMVBNLXdiY3h5d0dZNkxlWldWaU9HVmFHNk02Y0t4ZDRWa1RHN0hLbUVqWk1kaEV2OFJqRVpheS03YjdLYXRqVTE5MXF1LVR3WUtZZ2tqWGNNRk5QYkQxN2k2UGJ2WWhINm4?oc=5",
       "source": "google.com",
       "high_confidence": false
-    },
-    {
-      "date": "2026-09-02",
-      "title": "台灣館惹怒中國 光州市道歉 稱尊重一中",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TN2ROR0VabS1BanhJQW8tUDlSYXBabEpNVnRwQ2puNUw5cXNKWllnelkwazdhUlFKVGhpeVJ4THF1WEF2SHJTU1ZHU3BESW1NY25oYWxB0gFWQVVfeXFMTVM3ZE5HRVptLUFqeElBby1QOVJhcFpsSk1WdHBDam41TDlxc0paWWd6WTBrN2FSUUpUaGl5UnhMcXVYQXZIclNTVkdTcERJbU1jbmhhbEE?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-09-01",
-      "title": "准用「台灣館」激怒中國！ 光州市發道歉聲明：尊重一中原則",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeW5VTVliQ3I4cHBucXZVcUJfNWhSWUU5empMTEUyN3B6TnQ0NTdFLW02bjd1QUJpWXcyZUZvY0RPWHhPYnlqcGgyMVhVZjJTLUZqa0h0MzBRTmlwT3JuSFNpVFktSWJsZWdEazVhZHN1aWp4Q2ZmR01FX1VxRndGZlJGVFUwMXpwWEZVSFE2dHZyQTd4SzhjMnR6RmRZZ2NmdF9YSmdYbnROdm5PX083aDFVZzJwd2JxaWlUc19VOFFUVzlTZWRaUTY2djBqcU1xb0FabHFOOEZBRUhfak5yLVJUcjMycGZiVk91bEFhZHdHRGE1b2NwYlp0VUxJRWQ0SEFtRk82YXZFaE5zYUtpYkJOdUt5LUFZekxHY2c5YlI4TXRpWnBYWjJtM2lOQmVVZ2h1NFF5ZlBnSlVfaFhZSmtoNW90QTNSWjZ0NllLa2lkS0VHZmZRd195TXJLNGRjWUxEZTNIVWZKQTR3TlNCOXJXeVgzV2QwRkRYbVRR?oc=5",
-      "source": "google.com",
-      "high_confidence": true
     }
   ]
 }
