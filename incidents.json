@@ -2,7 +2,7 @@
   "last_incident": "2026-11-09T00:00:00+08:00",
   "last_incident_title": "自動偵測：防線不在晶片，在制度：黃仁勳道歉信背後，美中算力暗戰與台灣戰略盲點",
   "auto_updated": false,
-  "last_updated": "2026-11-16T17:03:50.716230+08:00",
+  "last_updated": "2026-11-17T18:16:05.681460+08:00",
   "incidents": [
     {
       "date": "2026-09-08",
@@ -229,6 +229,13 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-11-17",
+      "title": "《急診室的奇蹟》用嘴拔針蓋惹議！他淚訴：12秒鏡頭準備3小時",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZnZ0c0tSaWtncU1mZU9BMWlCbFFTcXBiUXpNUUhXVnFVUnFFa3YxSTA3RGJKaElqQzRuS2daV0lPR1FUd0hzM01YM2FGTkpfTVdB?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-11-15",
       "title": "蘇巧慧斷牙一晚修復遭疑特權 她反嗆：沒看過臨時牙套？",
@@ -919,13 +926,6 @@
       "date": "2026-08-22",
       "title": "安華武統論惹議大馬學者：華社再挺中未必埋單北京對台立場",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wY2VRX0lNMG9Hb3Fnc1Nhd0VUZW1HYnAwNDNKX21xY2ozRzhoWW9BOXMwS3k3X01SVkVHYzhiNXRzRUFyMzJwR3hmbWlJRGdoejhoa0JEeTRFVWNiTkxJ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-08-20",
-      "title": "武統台灣言論惹議 大馬首相安華重申一中 | NOWNEWS今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2SU9HaG9ZMVBNLXdiY3h5d0dZNkxlWldWaU9HVmFHNk02Y0t4ZDRWa1RHN0hLbUVqWk1kaEV2OFJqRVpheS03YjdLYXRqVTE5MXF1LVR3WUtZZ2tqWGNNRk5QYkQxN2k2UGJ2WWhINm4?oc=5",
       "source": "google.com",
       "high_confidence": false
     }
